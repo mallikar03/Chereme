@@ -1,3 +1,3 @@
 # Snippet of the App
 
-![App Snippet]("C:\Users\Marwa Asad\Desktop\chereme_ss.png")
+<img width="781" alt="chereme_ss" src="https://github.com/user-attachments/assets/b765154b-a44b-4c28-a53e-de1d4cd079ad">
